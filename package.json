@@ -1,0 +1,26 @@
+{
+  "name": "dev-tools-useful-bots",
+  "version": "1.0.0",
+  "description": "some useful dev tools bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakash4dev/dev-tools-useful-bots.git"
+  },
+  "keywords": [
+    "javascript",
+    "dev-tools",
+    "chrome",
+    "bots",
+    "automation"
+  ],
+  "author": "aakash4dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakash4dev/dev-tools-useful-bots/issues"
+  },
+  "homepage": "https://github.com/aakash4dev/dev-tools-useful-bots#readme"
+}
